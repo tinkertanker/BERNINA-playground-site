@@ -1,0 +1,23 @@
+{
+    "title": "Bernina Swift Playgrounds",
+    "publisherName": "tinkercademy",
+    "feedIdentifier": "sg.tk.bernina",
+    "contactURL": "mailto:carl@tk.sg",
+    "formatVersion": "1.0",
+    "documents": [
+        {
+            "title": "Test Book",
+            "overviewSubtitle": "Test Book for Demo Only",
+            "description": "Test Demonstration of basic turtle functions and exporting to EXP",
+            "contentIdentifier": "sg.tk.bernina.testBook",
+            "contentVersion": "1.0",
+            "publishedDate": "2023-09-20T04:17:16+0000",
+            "lastUpdatedDate": "2023-09-20T04:17:16+0000",
+            "url": "https://bernina.tk.sg/test-book/BiancoSwift.playgroundbook.zip",
+            "additionalInformation": [],
+            "thumbnailURL": "test-book/preview.png",
+            "bannerImageURL": "test-book/preview.png",
+            "previewImageURLs": []
+        }
+    ]
+}
