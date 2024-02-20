@@ -6,9 +6,9 @@
     "formatVersion": "1.0",
     "documents": [
         {
-            "title": "Test Book",
-            "overviewSubtitle": "Test Book for Demo Only",
-            "description": "Test Demonstration of basic turtle functions and exporting to EXP",
+            "title": "BiancoSwift",
+            "overviewSubtitle": "To learn the Bianco library in Swift",
+            "description": "Lesson covering the use of Bianco library in Swift, such as the basic syntax, the use of loops, and how to draw curves etc.",
             "contentIdentifier": "sg.tk.bernina.BiancoSwift",
             "contentVersion": "1.0",
             "publishedDate": "2023-09-20T04:17:16+0000",
